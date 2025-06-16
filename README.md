@@ -8,15 +8,16 @@ This is a tasks app built using [Vue.js](https://vuejs.org/) and [PicoCSS](https
 
 - [Vue.js](https://vuejs.org/) — Progressive JavaScript framework
 - [PicoCSS](https://picocss.com/) — Minimal, responsive, classless CSS framework
-- HTML5 & Modern JavaScript
+- HTML5 & TypeScript
 
 ---
 
 ## 📸 Screenshots
 
 <!-- Add your screenshots below, example: -->
-
-
+![Initial state](https://github.com/user-attachments/assets/c9487db3-bbe6-48e4-9ee7-686a5a304524)
+![Adding tasks to the list](https://github.com/user-attachments/assets/5972b835-f8ee-4a2c-90e0-b3301c052f35)
+![Filtering tasks](https://github.com/user-attachments/assets/5fab61b8-9eb7-4804-9d59-1db0e48b0944)
 
 ---
 
@@ -66,25 +67,10 @@ http://localhost:5173
 │   ├── App.vue       # Root component
 │   ├── main.ts       # Application entry point
 │   ├── style.css     # Application base css
-│   └── types.ts      # Global interfaces definition
+│   └── types.ts      # Global interface definition
 ├── package.json      # Project dependencies and scripts
 ├── README.md         # Documentation
 ```
-
----
-
-## ✨ Features
-
-- 🖥️ Responsive and accessible layout
-- 🎨 Clean and minimal design
-- 📱 Mobile-friendly
-- 🚀 Easy to customize and expand
-
----
-
-## 🙌 Contributing
-
-Feel free to open issues or submit pull requests with suggestions, improvements, or bug fixes!
 
 ---
 
