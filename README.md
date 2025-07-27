@@ -28,7 +28,7 @@ Follow the steps below to run the project locally:
 1. **Clone this repository:**
 
 ```bash
-git clone https://github.com/DBzera/tasks-app.git
+git clone https://github.com/andrey-gil/tasks-app.git
 ```
 
 2. **Navigate to the project folder:**
